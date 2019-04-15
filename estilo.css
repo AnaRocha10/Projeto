@@ -1,0 +1,24 @@
+h1{
+    color: #FFA07A;
+    background-color: darkblue;
+    border: 1px solid black
+}
+
+h1{
+    text-align: center
+}
+h2{
+    text-align: center
+}
+
+IMG.displayed{
+    display: block
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+body{
+    background: lightblue
+}
+
+div img=container
